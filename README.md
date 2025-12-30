@@ -1,0 +1,2 @@
+# insert_images_wps_embedded
+该脚本实现了在WPS Excel中使用DISPIMG指令将图片真正内嵌到指定单元格的功能
